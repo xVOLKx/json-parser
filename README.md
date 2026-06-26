@@ -38,7 +38,7 @@
 - <img src="images/parser.svg" width="24" align="middle"> Axios
 
 ## <img src="images/github.svg" width="24"> GitHub
-[Перейти в репозиторий](https://github.com/xVOLKx/json_parser)
+[Перейти в репозиторий](https://github.com/xVOLKx/json-parser)
 
 ## <img src="images/license.svg" width="28"> Лицензия
 
